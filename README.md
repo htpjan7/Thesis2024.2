@@ -113,25 +113,26 @@ AirSim là plugin mở rộng cho Unreal Engine, cung cấp mô phỏng drone. �
    - Mở File Explorer, vào `%USERPROFILE%\Documents\AirSim` (thường là `C:\Users\YourName\Documents\AirSim`).
    - Nếu chưa có file `settings.json`, tạo mới bằng Notepad và dán đoạn sau:
      ```{
-      "SettingsVersion": 1.2,
-      "SimMode": "Multirotor",
-      "Vehicles": {
-        "Drone1": {
-          "VehicleType": "SimpleFlight",
-          "AutoCreate": true,
-          "Sensors": {
-            "Distance": {
-              "SensorType": 5,
-              "Enabled": true,
-              "X": 0, "Y": 0, "Z": 0,
-              "Yaw": 0, "Pitch": -90, "Roll": 0,
-              "MinDistance": 0.2,
-              "MaxDistance": 40.0
+          "SettingsVersion": 1.2,
+          "SimMode": "Multirotor",
+          "Vehicles": {
+            "Drone1": {
+              "VehicleType": "SimpleFlight",
+              "AutoCreate": true,
+              "Sensors": {
+                "Distance": {
+                  "SensorType": 5,
+                  "Enabled": true,
+                  "X": 0, "Y": 0, "Z": 0,
+                  "Yaw": 0, "Pitch": -90, "Roll": 0,
+                  "MinDistance": 0.2,
+                  "MaxDistance": 40.0
+                }
+              }
             }
           }
         }
-      }
-    } ```
+     ```
    - Lưu file với encoding UTF-8.
 
 6. **Kiểm Tra AirSim**:
