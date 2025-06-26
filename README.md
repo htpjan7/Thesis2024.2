@@ -131,10 +131,11 @@ AirSim là plugin mở rộng cho Unreal Engine, cung cấp mô phỏng drone. �
           }
         }
       }
-    }```
+    }
+   ```
    - Lưu file với encoding UTF-8.
 
-5. **Kiểm Tra AirSim**:
+6. **Kiểm Tra AirSim**:
    - Mở dự án UE (Blocks hoặc dự án mới), nhấn nút **Play** trong giao diện UE.
    - Mở Command Prompt, vào `AirSim\PythonClient\multirotor`.
    - Chạy script mẫu:
