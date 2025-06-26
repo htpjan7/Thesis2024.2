@@ -283,6 +283,6 @@ Dưới đây là các lệnh hỗ trợ (có thể thêm số, ví dụ: "tiế
 
 ---
 
-Chúc bạn thành công và vui vẻ với dự án! Nếu có thắc mắc, hãy thử lại các bước hoặc liên hệ người phát triển. 🚁
+Chúc bạn thành công và vui vẻ với dự án! Nếu có thắc mắc, hãy thử lại các bước hoặc liên hệ người phát triển. 
 
 ---
