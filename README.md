@@ -112,8 +112,7 @@ AirSim là plugin mở rộng cho Unreal Engine, cung cấp mô phỏng drone. �
 4. **Cấu Hình Cảm Biến Khoảng Cách**:
    - Mở File Explorer, vào `%USERPROFILE%\Documents\AirSim` (thường là `C:\Users\YourName\Documents\AirSim`).
    - Nếu chưa có file `settings.json`, tạo mới bằng Notepad và dán đoạn sau:
-     ```
-    {
+     ```{
       "SettingsVersion": 1.2,
       "SimMode": "Multirotor",
       "Vehicles": {
@@ -132,8 +131,7 @@ AirSim là plugin mở rộng cho Unreal Engine, cung cấp mô phỏng drone. �
           }
         }
       }
-    }
-     ```
+    }```
    - Lưu file với encoding UTF-8.
 
 5. **Kiểm Tra AirSim**:
