@@ -131,8 +131,7 @@ AirSim là plugin mở rộng cho Unreal Engine, cung cấp mô phỏng drone. �
           }
         }
       }
-    }
-   ```
+    } ```
    - Lưu file với encoding UTF-8.
 
 6. **Kiểm Tra AirSim**:
